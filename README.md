@@ -54,10 +54,12 @@ students:
 
 ## Screenshots
 ### 1. Setting up the environment
-![Setup Screenshot](Screenshot from 2025-04-02 20-52-07.png)
+![Screenshot from 2025-04-02 20-52-07](https://github.com/user-attachments/assets/38ba5d1a-1e40-4de4-b5ab-d9413218a6a9)
+
 
 ### 2. Running the application
-![Execution Screenshot](Screenshot from 2025-04-02 20-52-30.png)
+![Screenshot from 2025-04-02 20-52-30](https://github.com/user-attachments/assets/11fed1c7-518c-4be4-8d49-cb02ac799127)
+
 
 ## License
 This project is licensed under the MIT License.
