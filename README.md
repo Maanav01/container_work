@@ -15,7 +15,7 @@ This is a simple Python application that reads student data from a YAML file and
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/student-data-filter.git
+   git clone https://github.com/Maanav01/student-data-filter.git
    cd student-data-filter
    ```
 2. Install dependencies:
@@ -68,5 +68,5 @@ This project is licensed under the MIT License.
 Contributions are welcome! Feel free to submit a pull request.
 
 ## Author
-[Maanav Singh](https://github.com/yourusername)
+[Maanav Singh](https://github.com/Maanav01)
 
